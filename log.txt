@@ -1,142 +1,313 @@
------node liri.js spotify-this-song undefined-----------------------------
-
-Song Information
-Artist: Lil Wayne
+-----node liri.js spotify-this-song Close Friends-----
 
 --------------------- Spotify Results ----------------------------
-Album: Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
-Song Name: The Sign
-Song Preview: https://open.spotify.com/track/3vWzyGTu6Ovo1GdrcJqH6e
-Song Name: The Sign
 
 Song Information
+Song Name: Close Friends
+Artist: Lil Baby
 ------------------------
-Album: Harry Styles
-
-Song Information
-------------------------
-Song Name: The Sign
-Artist: Jeremih
-Album: Late Nights: The Album
-Song Preview: https://open.spotify.com/track/3WjyiSbfR74pjWXQ3IaFKJ
-
-Song Information
-------------------------
-Song Name: The Sign
-Artist: Ty Dolla $ign
-Album: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
-Song Preview: https://open.spotify.com/track/7t2bFihaDvhIrd2gn2CWJO
-Artist: Harry Styles
-Song Preview: https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN
-Song Name: The Sign
+Song Preview: https://open.spotify.com/track/5nzhL67GpF9szXWg5y509A
+Song Name: Close Friends
 ------------------------
 
 Song Information
-Song Preview: https://open.spotify.com/track/3oCJJksC12uFxkt3RQ7rbV
-Artist: Jeremih
-Album: The Light
+Album: Drip Harder
+Album: My Friends Never Die
+Song Preview: https://open.spotify.com/track/0XhFy7NAFb8b1grm26Xwh2
+------------------------
+Artist: ODESZA
+Song Name: Close Friends
 
 Song Information
-Song Name: The Sign
+Artist: B.O.G Rell
+Album: Close Friends
 ------------------------
-Song Preview: https://open.spotify.com/track/5ELRkzdzz0HvGpMDlfZHkV
-Artist: Harry Styles
-------------------------
-Album: Sign of the Times
+Song Preview: https://open.spotify.com/track/2mwNEBiolwcRfX6PSpEObC
+Song Name: Close Friends
+Artist: Adema
 
 Song Information
-Artist: Quality Control
-Album: Quality Control: Control The Streets Volume 1
-Song Preview: https://open.spotify.com/track/7jTL6K5hqWDVUH4j2thZrp
-
-Song Information
-Song Name: The Sign
-Song Name: The Sign
-Artist: Ty Dolla $ign
-Song Preview: https://open.spotify.com/track/270aLuFCbX32hhBr8MQyPM
-Album: Beach House 3
-------------------------
-Artist: Mac Miller
-Album: The Divine Feminine
-Song Preview: https://open.spotify.com/track/2lpygKqzPFtItQ4ss3cgfb
+Song Preview: https://open.spotify.com/track/6qSu4SigL8P2q5FUYEDYHW
 
 Song Information
 ------------------------
-Song Name: The Sign
-------------------------
-Song Name: The Sign
-Album: The Sign (US Album) [Remastered]
-Song Preview: https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE
-
-Song Information
+Artist: Rence
+Song Name: Close Friends
+Song Preview: https://open.spotify.com/track/1H2fSZbs3pmzSxckDmcsR6
+Album: Close Friends
 
 Song Information
 ------------------------
-Album: Beach House 3
-Song Preview: https://open.spotify.com/track/2ZN1EnypRwsD38EoFRwmu9
-Artist: Ace of Base
+Artist: B.O.G Rell
+Song Name: Close Friends
+Song Preview: https://open.spotify.com/track/17fVR5UByFOWy2cNC13vhJ
+Album: Still Here
+Album: Adema
 
 Song Information
-Song Name: The Sign
-Artist: Ty Dolla $ign
-Song Name: The Sign
-Album: Signed To The Streets 3
-Artist: Lil Durk
-Song Preview: https://open.spotify.com/track/55bBVlWgwZ6yw5ccMkDU5j
+Song Name: Close Friends
+Album: My Friends Never Die Remixes
+Song Preview: https://open.spotify.com/track/2JnzGFSFbdDl1CyHkgtmN9
+Artist: ODESZA
 ------------------------
-Song Name: The Sign
-
-Song Information
-Album: The Greatest Showman: Reimagined
-Artist: MAX
-
-Song Information
-Song Preview: https://open.spotify.com/track/2W5WCpIzIQ2kNzBlUMJGZm
-Song Name: The Sign
-Artist: Coldplay
-Album: A Rush Of Blood To The Head
-Song Preview: https://open.spotify.com/track/4bPkBHKLKd9WHizsvM2zV3
+Song Name: Close Friends
+Album: My Friends & Me
+Artist: Dionne Warwick
 ------------------------
-------------------------
-------------------------
-
-Song Information
-Song Name: The Sign
-Album: Suicide Squad: The Album
-Song Preview: https://open.spotify.com/track/7qUJQSNX9QNf46CC6FgH66
+Song Preview: https://open.spotify.com/track/2FjunPxU2s7E8FyXoxag9Z
 
 Song Information
 ------------------------
-Song Name: The Sign
-Album: The Sign (US Album) [Remastered]
-Artist: Ace of Base
-Song Preview: https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9
-------------------------
-Song Name: The Sign
+Artist: Dylan Owen
+Song Name: Close Friends
+Song Preview: https://open.spotify.com/track/0C2cO3USfsq1er0tTaMnUH
 
 Song Information
-Artist: Jeremih
-Artist: Lil Wayne
-Song Preview: https://open.spotify.com/track/0YIfZYYfVytcD1q0Mx57Ey
-------------------------
-Album: MIH-TY
-Song Name: The Sign
-Album: Shell Shocked (feat. Kill The Noise & Madsonik) [From "Teenage Mutant Ninja Turtles"]
-
-Song Information
+Album: Keep Your Friends Close
+Song Name: Close Friends
 
 Song Information
 ------------------------
-Song Name: The Sign
-Artist: EXO
-Album: DON’T MESS UP MY TEMPO – The 5th Album
-Song Preview: https://open.spotify.com/track/7zBQRGpYImAdIZc97FNj3V
-Song Preview: https://open.spotify.com/track/2MqK2bA1U6MO0EbUpCOG2r
+Album: Keep Your Friends Close
+Song Preview: https://open.spotify.com/track/6pLn7uPPRC293W3Yj73TwO
 
 Song Information
 ------------------------
-Song Name: The Sign
-Artist: The Game
-Song Preview: https://open.spotify.com/track/5NEAllh24T2YapWJmuw0j0
-Album: Down To Fuck (feat. YG, Ty Dolla $ign, Jeremih)
-Artist: Juicy J
+Artist: Close Your Eyes
+Song Name: Close Friends
+Song Preview: https://open.spotify.com/track/70N5fnXLejy4crZGUe1Sgi
+
+Song Information
+------------------------
+Album: We Will Overcome
+Song Name: Close Friends
+Artist: Dylan Owen
+Artist: Carpenters
+Album: Gold - Burt Bacharach & Friends
+Song Preview: https://open.spotify.com/track/0pl8PHUFFohue6JlnMJTzX
+
+Song Information
+------------------------
+Album: Close Friends
+Song Name: Close Friends
+
+Song Information
+Song Preview: https://open.spotify.com/track/5JU86p3VohA7j0QLO4EtjH
+Song Name: Close Friends
+Artist: Dre R
+------------------------
+Song Preview: https://open.spotify.com/track/2THNcr5xr6iGjnsJn6ZWa3
+Album: Midas Touch
+Artist: TaylorBeats
+Song Name: Close Friends
+Artist: Dylan Owen
+Album: Keep Your Friends Close
+Song Preview: https://open.spotify.com/track/573svhyphxfeVf3T2cQQ2f
+
+Song Information
+------------------------
+------------------------
+
+Song Information
+Artist: David Price
+Song Name: Close Friends
+Song Preview: https://open.spotify.com/track/23jvhy5OCKEgnx5nBF6sFi
+Album: Best 1's
+------------------------
+Artist: Dylan Owen
+Album: Keep Your Friends Close
+
+Song Information
+Song Name: Close Friends
+Song Preview: https://open.spotify.com/track/3oqqCR7MVpdfT7k4YGMzRw
+
+Song Information
+Song Name: Close Friends
+Artist: Anchors to Anchors
+Album: Keep Your Friends Close
+Song Preview: https://open.spotify.com/track/2OmIZi2lHEWxoc64VOhu6h
+------------------------
+
+Song Information
+Song Name: Close Friends
+Album: Keep Your Friends Close
+------------------------
+Song Preview: https://open.spotify.com/track/2zGFcoLxflMOcJkINX6dPg
+------------------------
+Artist: Dylan Owen
+Song Name: Close Friends
+Artist: Dylan Owen
+Album: Keep Your Friends Close
+
+Song Information
+Song Preview: https://open.spotify.com/track/0clyUIXGfM7qZgzpmXLhLj
+-----node liri.js movie-this undefined-----
+
+----------------- Search OMDB ----------------------------
+Title: Mr. Nobody
+Ratings
+Internet Movie Database: 7.8/10
+Metacritic: 63/100
+Rotten Tomatoes: 67%
+Country: Belgium, Germany, Canada, France, USA, UK
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Year: 2009
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Language: English, Mohawk
+-----node liri.js movie-this The Matrix-----
+
+----------------- Search OMDB ----------------------------
+Title: The Matrix
+Ratings
+Year: 1999
+Internet Movie Database: 8.7/10
+Rotten Tomatoes: 88%
+Language: English
+Metacritic: 73/100
+Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+Country: USA
+Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+-----node liri.js do-what-it-says undefined-----
+-----node liri.js do-what-it-says undefined-----
+
+Song Information
+
+--------------------- Spotify Results ----------------------------
+------------------------
+Artist: Backstreet Boys
+Song Name: "I Want it That Way"
+Song Preview: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+Album: The Hits--Chapter One
+------------------------
+Song Name: "I Want it That Way"
+Artist: Backstreet Boys
+
+Song Information
+Album: Millennium
+Song Preview: https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya
+
+Song Information
+------------------------
+Song Name: "I Want it That Way"
+Artist: Anthem Lights
+Album: Covers Part IV
+Song Preview: https://open.spotify.com/track/3Ww6kEWxLh4Ub4WPJ9hMtA
+
+Song Information
+------------------------
+Song Name: "I Want it That Way"
+Artist: Tyler and Mark
+Album: Beautiful Dreams
+Song Preview: https://open.spotify.com/track/7k52T0b1v9ktm2gJwlO5yy
+
+Song Information
+------------------------
+Song Name: "I Want it That Way"
+Artist: "Weird Al" Yankovic
+Album: Poodle Hat
+Song Preview: https://open.spotify.com/track/4vHb50VkxDzHYwLiHfWczK
+
+Song Information
+------------------------
+Song Name: "I Want it That Way"
+Artist: Dynamite Boy
+Album: Punk Goes Pop
+Song Preview: https://open.spotify.com/track/0F5f29urvisi4TiwJOQZWN
+
+Song Information
+------------------------
+Song Name: "I Want it That Way"
+Artist: Backstreet Boys
+Album: 90 Sweet 90s Hits!
+Song Preview: https://open.spotify.com/track/1zCiqxhampG4dcC7HEqPu5
+
+Song Information
+------------------------
+Song Name: "I Want it That Way"
+Artist: Backstreet Boys
+Album: NKOTBSB
+Song Preview: https://open.spotify.com/track/2KMwtsWwL5QDtSpm814tju
+
+Song Information
+------------------------
+Song Name: "I Want it That Way"
+Artist: Glee Cast
+Album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Song Preview: https://open.spotify.com/track/3t7m7AzV2ntuI9fIT6KREP
+
+Song Information
+------------------------
+Song Name: "I Want it That Way"
+Artist: Boyce Avenue
+Album: Cover Sessions, Vol. 2
+Song Preview: https://open.spotify.com/track/16COzZ7jCVn3O8b8ZgviOx
+
+Song Information
+------------------------
+Song Name: "I Want it That Way"
+Artist: Manuel Costa
+Album: I Want It That Way
+Song Preview: https://open.spotify.com/track/4Sp4RxkWukxqJykl0ySNQi
+
+Song Information
+------------------------
+Song Name: "I Want it That Way"
+Artist: Steel Panther
+Album: I Want It That Way
+Song Preview: https://open.spotify.com/track/0448cNUvZGCAlUpIPO5kdY
+
+Song Information
+------------------------
+Song Name: "I Want it That Way"
+Artist: Scary Pockets
+Album: Nu Funk
+Song Preview: https://open.spotify.com/track/4IWQXV01Lp0wsXCXo09EBr
+
+Song Information
+------------------------
+Song Name: "I Want it That Way"
+Artist: Scott Bradlee's Postmodern Jukebox
+Album: Selfies on Kodachrome
+Song Preview: https://open.spotify.com/track/1Le3uYU5NU9cXXtYeSWnEM
+
+Song Information
+------------------------
+Song Name: "I Want it That Way"
+Artist: "Weird Al" Yankovic
+Album: The Essential "Weird Al" Yankovic
+Song Preview: https://open.spotify.com/track/1vaico2C72imYowF4Kv04V
+
+Song Information
+------------------------
+Song Name: "I Want it That Way"
+Artist: Backstreet Boys
+Album: NOW That's What I Call 90s Pop
+Song Preview: https://open.spotify.com/track/75W4IDdKhHvRQZpaDx9YPg
+
+Song Information
+------------------------
+Song Name: "I Want it That Way"
+Artist: #90s Update
+Album: #90s Update
+Song Preview: https://open.spotify.com/track/0rZTeneJh7IM5SdoabMcYA
+
+Song Information
+------------------------
+Song Name: "I Want it That Way"
+Album: I Want It That Way
+Song Preview: https://open.spotify.com/track/1UUw0IsDzxCxJ6v0dlygUy
+------------------------
+Artist: Kyle Olthoff
+Song Name: "I Want it That Way"
+Artist: Scott Bradlee's Postmodern Jukebox
+
+Song Information
+Album: PMJ Is For Lovers: The Love Song Collection
+Song Preview: https://open.spotify.com/track/6FNTpwQU3VNZvezUPYMjPY
+
+Song Information
+------------------------
+Song Name: "I Want it That Way"
+Artist: Landon Austin & Julia Sheer
+Album: I Want It That Way
+Song Preview: https://open.spotify.com/track/1zUJq8Ap2u9MyDo0HJxVU5

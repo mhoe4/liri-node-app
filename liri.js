@@ -10,7 +10,7 @@ var spotify = new Spotify(keys.spotify);
 
 function appendCmd() {
   var cmdLineInput = `node liri.js ${cmd} ${param}`;
-  fs.appendFile("log.txt", `-----${cmdLineInput}-----\n`, function (err) {
+  fs.appendFile("log.txt", `\n-----${cmdLineInput}-----\n`, function (err) {
 
     // If an error was experienced we will log it.
     if (err) {
