@@ -1,0 +1,142 @@
+-----node liri.js spotify-this-song undefined-----------------------------
+
+Song Information
+Artist: Lil Wayne
+
+--------------------- Spotify Results ----------------------------
+Album: Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
+Song Name: The Sign
+Song Preview: https://open.spotify.com/track/3vWzyGTu6Ovo1GdrcJqH6e
+Song Name: The Sign
+
+Song Information
+------------------------
+Album: Harry Styles
+
+Song Information
+------------------------
+Song Name: The Sign
+Artist: Jeremih
+Album: Late Nights: The Album
+Song Preview: https://open.spotify.com/track/3WjyiSbfR74pjWXQ3IaFKJ
+
+Song Information
+------------------------
+Song Name: The Sign
+Artist: Ty Dolla $ign
+Album: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+Song Preview: https://open.spotify.com/track/7t2bFihaDvhIrd2gn2CWJO
+Artist: Harry Styles
+Song Preview: https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN
+Song Name: The Sign
+------------------------
+
+Song Information
+Song Preview: https://open.spotify.com/track/3oCJJksC12uFxkt3RQ7rbV
+Artist: Jeremih
+Album: The Light
+
+Song Information
+Song Name: The Sign
+------------------------
+Song Preview: https://open.spotify.com/track/5ELRkzdzz0HvGpMDlfZHkV
+Artist: Harry Styles
+------------------------
+Album: Sign of the Times
+
+Song Information
+Artist: Quality Control
+Album: Quality Control: Control The Streets Volume 1
+Song Preview: https://open.spotify.com/track/7jTL6K5hqWDVUH4j2thZrp
+
+Song Information
+Song Name: The Sign
+Song Name: The Sign
+Artist: Ty Dolla $ign
+Song Preview: https://open.spotify.com/track/270aLuFCbX32hhBr8MQyPM
+Album: Beach House 3
+------------------------
+Artist: Mac Miller
+Album: The Divine Feminine
+Song Preview: https://open.spotify.com/track/2lpygKqzPFtItQ4ss3cgfb
+
+Song Information
+------------------------
+Song Name: The Sign
+------------------------
+Song Name: The Sign
+Album: The Sign (US Album) [Remastered]
+Song Preview: https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE
+
+Song Information
+
+Song Information
+------------------------
+Album: Beach House 3
+Song Preview: https://open.spotify.com/track/2ZN1EnypRwsD38EoFRwmu9
+Artist: Ace of Base
+
+Song Information
+Song Name: The Sign
+Artist: Ty Dolla $ign
+Song Name: The Sign
+Album: Signed To The Streets 3
+Artist: Lil Durk
+Song Preview: https://open.spotify.com/track/55bBVlWgwZ6yw5ccMkDU5j
+------------------------
+Song Name: The Sign
+
+Song Information
+Album: The Greatest Showman: Reimagined
+Artist: MAX
+
+Song Information
+Song Preview: https://open.spotify.com/track/2W5WCpIzIQ2kNzBlUMJGZm
+Song Name: The Sign
+Artist: Coldplay
+Album: A Rush Of Blood To The Head
+Song Preview: https://open.spotify.com/track/4bPkBHKLKd9WHizsvM2zV3
+------------------------
+------------------------
+------------------------
+
+Song Information
+Song Name: The Sign
+Album: Suicide Squad: The Album
+Song Preview: https://open.spotify.com/track/7qUJQSNX9QNf46CC6FgH66
+
+Song Information
+------------------------
+Song Name: The Sign
+Album: The Sign (US Album) [Remastered]
+Artist: Ace of Base
+Song Preview: https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9
+------------------------
+Song Name: The Sign
+
+Song Information
+Artist: Jeremih
+Artist: Lil Wayne
+Song Preview: https://open.spotify.com/track/0YIfZYYfVytcD1q0Mx57Ey
+------------------------
+Album: MIH-TY
+Song Name: The Sign
+Album: Shell Shocked (feat. Kill The Noise & Madsonik) [From "Teenage Mutant Ninja Turtles"]
+
+Song Information
+
+Song Information
+------------------------
+Song Name: The Sign
+Artist: EXO
+Album: DON’T MESS UP MY TEMPO – The 5th Album
+Song Preview: https://open.spotify.com/track/7zBQRGpYImAdIZc97FNj3V
+Song Preview: https://open.spotify.com/track/2MqK2bA1U6MO0EbUpCOG2r
+
+Song Information
+------------------------
+Song Name: The Sign
+Artist: The Game
+Song Preview: https://open.spotify.com/track/5NEAllh24T2YapWJmuw0j0
+Album: Down To Fuck (feat. YG, Ty Dolla $ign, Jeremih)
+Artist: Juicy J
