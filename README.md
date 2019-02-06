@@ -12,7 +12,9 @@ Liri-node-app is a command line node application that takes in specific commands
   2. `movie-this`
   3. `do-what-it-says`
 
-To execute a command, open up a terminal and navigate to the `liri-node-app` folder where `liri.js` is located.
+To execute a command, open up a terminal and navigate to the `liri-node-app` folder where `liri.js` is located. 
+
+Execute: `npm install` to install the required node modules
 
 Inside the terminal execute one of the following commands:
 
